@@ -1,16 +1,31 @@
-## Hi there 👋
+# Артем Фоминых — Junior Data Analyst
 
-<!--
-**Saoynara143/Saoynara143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Москва · Открыт к позициям Junior Data Analyst / Product Analyst и стажировкам**
 
-Here are some ideas to get you started:
+Привет! Я начинающий аналитик данных с опытом решения бизнес-задач в электронной коммерции. В 2022–2026 годах самостоятельно управлял продажами на Wildberries: более **100 товаров**, среднемесячный оборот — **1–3 млн ₽**. Анализировал продажи, закупки, остатки, себестоимость и маржинальность, принимал решения по ассортименту и ценам.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Сейчас развиваюсь в **аналитике данных и продуктовой аналитике**: изучаю SQL, Python, статистику и A/B-тестирование и закрепляю знания в учебных проектах.
+
+## Навыки
+
+- **SQL (PostgreSQL):** JOIN, GROUP BY, CTE, подзапросы, оконные функции, расчёт метрик.
+- **Python (базовый уровень):** pandas, обработка таблиц, группировки и визуализации.
+- **Excel:** формулы, обработка данных, расчёт показателей и отчётность.
+- **Статистика и A/B-тесты (база):** проверка гипотез, конверсия, p-value, доверительные интервалы.
+- **Бизнес-аналитика:** выручка, маржинальность, ABC-анализ, продажи и остатки.
+
+## Проекты
+
+Все три проекта собраны в [analytics-portfolio](https://github.com/Saoynara143/analytics-portfolio).
+
+| Проект | Что сделано | Инструменты |
+|---|---|---|
+| [Анализ продаж маркетплейса](https://github.com/Saoynara143/analytics-portfolio/tree/main/01_marketplace_sql) | SQL-запросы для выручки, маржинальности, ABC-анализа и поведения покупателей | PostgreSQL, SQL |
+| [Анализ продаж на Python](https://github.com/Saoynara143/analytics-portfolio/tree/main/02_sales_python) | Очистка и анализ данных, расчёт показателей и графики | Python, pandas, matplotlib |
+| [Анализ A/B-теста](https://github.com/Saoynara143/analytics-portfolio/tree/main/03_ab_test) | Анализ конверсии, статистическая проверка гипотез и интерпретация результатов | Python, статистика |
+
+> **О проектах:** использованы синтетические данные. Это учебные работы, а не результаты реальных A/B-тестов или коммерческих SQL/Python-проектов. Опыт работы с бизнес-показателями Wildberries — отдельный практический опыт.
+
+## Что ищу
+
+Первую роль в IT-аналитике: **Junior Data Analyst / Product Analyst / стажировка аналитика**. Готов работать в Москве в офисе или гибридном формате и развивать навыки на практических задачах команды.
